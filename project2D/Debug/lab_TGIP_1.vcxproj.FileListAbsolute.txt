@@ -1,0 +1,6 @@
+F:\Teaching\Sem1\ACG\Lab3\Lab3\Debug\ACG_Lab3.exe
+F:\Teaching\Sem1\ACG\Lab3\Lab3\Debug\ACG_Lab3.pdb
+F:\Teaching\Sem1\ACG\Lab3\Lab3-ok\Lab3\Debug\ACG_Lab3.exe
+F:\Teaching\Sem1\ACG\Lab3\Lab3-ok\Lab3\Debug\ACG_Lab3.pdb
+F:\Teaching\Sem1\ACG\Lab4\Lab4\Debug\ACG_Lab4.exe
+F:\Teaching\Sem1\ACG\Lab4\Lab4\Debug\ACG_Lab4.pdb

@@ -1,0 +1,12 @@
+﻿          1 file(s) copied.
+          1 file(s) copied.
+  main.cpp
+C:\Users\edward\Music\3rd_year_cti\ACG_an3_sem1\Project\project2D\main.cpp(536,91): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\edward\Music\3rd_year_cti\ACG_an3_sem1\Project\project2D\main.cpp(536,91): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\edward\Music\3rd_year_cti\ACG_an3_sem1\Project\project2D\main.cpp(593,94): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\edward\Music\3rd_year_cti\ACG_an3_sem1\Project\project2D\main.cpp(593,94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\edward\Music\3rd_year_cti\ACG_an3_sem1\Project\project2D\main.cpp(473,9): warning C4101: 'random_var0': unreferenced local variable
+C:\Users\edward\Music\3rd_year_cti\ACG_an3_sem1\Project\project2D\main.cpp(472,9): warning C4101: 'random_var': unreferenced local variable
+  shader.cpp
+  Generating Code...
+  lab_TGIP_1.vcxproj -> C:\Users\edward\Music\3rd_year_cti\ACG_an3_sem1\Project\project2D\Debug\ACG_Lab4.exe

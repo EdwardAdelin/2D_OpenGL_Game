@@ -1,0 +1,12 @@
+#version 330 core
+
+// Input vertex data, different for all executions of this shader.
+layout(location = 0) in vec3 vertexPos;
+
+// Uniform pentru a transmite transformarea
+uniform mat4 transform;
+
+void main() {
+    // Aplica transformarea pe X si lasã Y si Z neschimbate
+    gl_Position = transform * vec4(vertexPos.x, vertexPos.y, vertexPos.z, 1.0);
+}
